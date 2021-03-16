@@ -10,7 +10,7 @@ public class Eight {
             array[i]= i+1;
 //                     System.out.println(array[i]);
         }
-        double a = array[1];
+        double a = array[0];
         double b = array[array.length-1];
         System.out.println(a+ " " + b);
 
