@@ -1,18 +1,21 @@
 public class SixB {
-
-
     public static void main(String[] args) {
-        String a = "********";
-        String c = "*";
-        String b = "      ";
+        String a = "*";
+        String b = " ";
 
-        for (int i = 0; i < 1; i++){
-            System.out.println(a);
-            for (int j=1; j<4; j++){
-                System.out.println(c + b +c);
+        for (int i = 0; i < 8; i++){
+            System.out.print(a);
+            }
+        System.out.println();
+        for (int i=1; i<4; i++){
+            System.out.print(a);
+            for(int j =0; j<6; j++){
+                System.out.print(b);
             }
             System.out.println(a);
         }
+        for (int i = 0; i < 8; i++){
+            System.out.print(a);
+        }
     }
-
 }

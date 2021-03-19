@@ -7,21 +7,23 @@ public class Nine {
 
         Random randNum = new Random();
         int array[] = new int[100];
-        for (int i =1; i <array.length; i++){
+        for (int i = 1; i < array.length; i++) {
             array[i] = randNum.nextInt();
         }
+
+
+
+        int q;
+
+        for (int i = 0; i < array.length; i++) {
+            for (int j = i + 1; j < array.length; j++) {
+                if (array[i] > array[j]) {
+                    q = array[i];
+                    array[i] = array[j];
+                    array[j] = q;
+                }
+            }
+        }
         System.out.println(Arrays.toString(array));
-
-
     }
-
-//    public static int[] lookForBiggerNumbers(int arr[])
-//    {
-//        for(int i = 0; i<arr.length; i++){
-//            if (arr[i]< arr[i+1]){
-//
-//            }
-//        }
-//
-//    }
 }
