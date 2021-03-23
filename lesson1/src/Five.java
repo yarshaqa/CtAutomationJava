@@ -1,5 +1,3 @@
-package Lesson1;
-
 public class Five {
     public static void main(String[] Args) {
         char h = 72;
@@ -14,7 +12,6 @@ public class Five {
 //        StringBuilder stringBuilder = new StringBuilder();
 //        a = stringBuilder.append(h).append(e).append(l).append(l).append(o);
 //        System.out.println(a);
-
 
     }
 }

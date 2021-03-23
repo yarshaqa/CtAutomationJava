@@ -1,6 +1,6 @@
 import java.lang.Math;
 
-public class Two {
+public class Two2 {
 
     public static void main(String[] args) {
 

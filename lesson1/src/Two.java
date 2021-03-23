@@ -1,5 +1,3 @@
-package Lesson1;
-
 public class Two {
 
     public static void main(String[] Args){
@@ -13,7 +11,5 @@ public class Two {
         byte g = 127;
         short h = -32768;
 
-
     }
-
 }

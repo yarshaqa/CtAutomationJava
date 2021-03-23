@@ -1,5 +1,3 @@
-package Lesson1;
-
 public class HelloJavaOne {
 
     public static void main(String[] Args){

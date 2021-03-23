@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4053c6d3-b0d4-4c56-95d3-72f9473d082a" name="Default Changelist" comment="SixD is ready">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/Eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Eight2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/Five.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Five2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/Four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Four2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/Nine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Nine2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/One2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/Seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Seven2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/SixA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/SixA2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/SixB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/SixB2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/SixC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/SixC2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/SixD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/SixD2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Three2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Two2.java" afterDir="false" />
+    <list default="true" id="4053c6d3-b0d4-4c56-95d3-72f9473d082a" name="Default Changelist" comment="git ignore fix">
+      <change afterPath="$PROJECT_DIR$/lesson1/lesson1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/src/Eight2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavaAutomation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaAutomation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/Eight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Five.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/Five.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/HelloJavaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/HelloJavaOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/Seven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Six.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/Six.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/Two.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Eight2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Five2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/Five2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Four2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/Four2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Lesson2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/Lesson2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Nine2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/Nine2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/One2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/One2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Seven2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/Seven2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/SixA2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/SixA2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/SixB2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/SixB2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/SixC2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/SixC2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/SixD2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/SixD2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Three2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/Three2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Two2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/Two2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Eight3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/Eight3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Five3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/Five3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Four3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/Four3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Lesson3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/Lesson3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Nine3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/Nine3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/One3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/One3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Seven3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/Seven3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Six3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/Six3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Ten3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/Ten3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Three3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/Three3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Two3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/src/Two3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,60 +71,64 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CtAutomationJava" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\yaroslav.shabatura\Downloads\JavaAutomation\src" />
+      <recent name="C:\Users\yaroslav.shabatura\Downloads\JavaAutomation\lesson2\src" />
+      <recent name="C:\Users\yaroslav.shabatura\Downloads\JavaAutomation\lesson2" />
+      <recent name="C:\Users\yaroslav.shabatura\Downloads\JavaAutomation\lesson3\src" />
       <recent name="C:\Users\yaroslav.shabatura\Downloads\JavaAutomation" />
+      <recent name="C:\Users\yaroslav.shabatura\Downloads\JavaAutomation\lesson1\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Four3">
-    <configuration name="Five (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Five" />
-      <module name="Lesson2" />
+  <component name="RunManager" selected="Application.One2">
+    <configuration name="Five2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Five2" />
+      <module name="lesson2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Five" />
-      <module name="Lesson3" />
+    <configuration name="Five3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Five3" />
+      <module name="lesson3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Four" />
-      <module name="Lesson3" />
+    <configuration name="One2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="One2" />
+      <module name="lesson2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Four3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Four3" />
-      <module name="Lesson3" />
+    <configuration name="SixB2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SixB2" />
+      <module name="lesson2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="One" />
-      <module name="Lesson3" />
+    <configuration name="SixD2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SixD2" />
+      <module name="lesson2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Four3" />
-        <item itemvalue="Application.Five (1)" />
-        <item itemvalue="Application.One" />
-        <item itemvalue="Application.Four" />
-        <item itemvalue="Application.Five" />
+        <item itemvalue="Application.One2" />
+        <item itemvalue="Application.SixB2" />
+        <item itemvalue="Application.Five2" />
+        <item itemvalue="Application.Five3" />
+        <item itemvalue="Application.SixD2" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616433131851</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="project failed">
+      <created>1616434613342</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616434613342</updated>
+    </task>
+    <task id="LOCAL-00006" summary="project failed">
+      <created>1616434756990</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616434756990</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,13 +193,19 @@
     <MESSAGE value="SixD is ready" />
     <MESSAGE value="Lesson 3 fully ready" />
     <MESSAGE value="Lesson2 and Lesson3 moved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson2 and Lesson3 moved" />
+    <MESSAGE value="project failed" />
+    <MESSAGE value="git ignore fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore fix" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="142" key="#Project_Structure" timestamp="1615921965352">
+    <state x="485" y="71" key="#Five" timestamp="1616492722567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="142" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1615921965352" />
+    <state x="485" y="71" key="#Five/0.0.1536.824@0.0.1536.824" timestamp="1616492722567" />
+    <state x="0" y="142" key="#Project_Structure" timestamp="1616493220014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="142" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1616493220014" />
     <state x="244" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615654759805">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -175,50 +222,50 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1616335091419" />
-    <state x="0" y="0" width="1536" height="824" key="CommitChangelistDialog2" timestamp="1616434612729">
+    <state x="0" y="0" width="1536" height="824" key="CommitChangelistDialog2" timestamp="1616434812934">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="0" width="1536" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1616434612729" />
+    <state x="0" y="0" width="1536" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1616434812934" />
     <state x="151" y="65" key="DiffContextDialog" timestamp="1616416931121">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="151" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1616416931121" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1616433765932">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1616490508539">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616433765932" />
-    <state width="1493" height="247" key="GridCell.Tab.0.bottom" timestamp="1616433537135">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616490508539" />
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom" timestamp="1616514157887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616433537135" />
-    <state width="1493" height="247" key="GridCell.Tab.0.center" timestamp="1616433537135">
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616514157887" />
+    <state width="1493" height="224" key="GridCell.Tab.0.center" timestamp="1616514157887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616433537135" />
-    <state width="1493" height="247" key="GridCell.Tab.0.left" timestamp="1616433537135">
+    <state width="1493" height="224" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616514157887" />
+    <state width="1493" height="224" key="GridCell.Tab.0.left" timestamp="1616514157884">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616433537135" />
-    <state width="1493" height="247" key="GridCell.Tab.0.right" timestamp="1616433537135">
+    <state width="1493" height="224" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616514157884" />
+    <state width="1493" height="224" key="GridCell.Tab.0.right" timestamp="1616514157887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616433537135" />
-    <state width="1493" height="247" key="GridCell.Tab.1.bottom" timestamp="1616433537135">
+    <state width="1493" height="224" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616514157887" />
+    <state width="1493" height="238" key="GridCell.Tab.1.bottom" timestamp="1616493676834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616433537135" />
-    <state width="1493" height="247" key="GridCell.Tab.1.center" timestamp="1616433537135">
+    <state width="1493" height="238" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616493676834" />
+    <state width="1493" height="238" key="GridCell.Tab.1.center" timestamp="1616493676834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1616433537135" />
-    <state width="1493" height="247" key="GridCell.Tab.1.left" timestamp="1616433537135">
+    <state width="1493" height="238" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1616493676834" />
+    <state width="1493" height="238" key="GridCell.Tab.1.left" timestamp="1616493676833">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1616433537135" />
-    <state width="1493" height="247" key="GridCell.Tab.1.right" timestamp="1616433537135">
+    <state width="1493" height="238" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1616493676833" />
+    <state width="1493" height="238" key="GridCell.Tab.1.right" timestamp="1616493676834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1616433537135" />
+    <state width="1493" height="238" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1616493676834" />
     <state x="147" y="65" key="MergeDialog" timestamp="1616433162694">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -227,26 +274,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="481" y="128" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1616433173916" />
-    <state x="367" y="0" key="SettingsEditor" timestamp="1616328381835">
+    <state x="367" y="0" key="SettingsEditor" timestamp="1616494310787">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1616328381835" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1616434631946">
+    <state x="367" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1616494310787" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1616434822763">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1616434631946" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1616433562002">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1616434822763" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1616492320160">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1616433562002" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1616492320160" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1615923522501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="600" height="424" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1615923522501" />
-    <state x="118" y="45" key="new project wizard" timestamp="1616328391771">
+    <state x="118" y="45" key="new project wizard" timestamp="1616494522405">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="118" y="45" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1616328391771" />
+    <state x="118" y="45" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1616494522405" />
     <state x="490" y="202" key="run.anything.popup" timestamp="1616328347951">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

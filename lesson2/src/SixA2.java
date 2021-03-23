@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SixA {
+public class SixA2 {
 
     public static void main(String[] args) {
 

@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-public class Nine {
+public class Nine2 {
     public static void main(String[] args) {
 
 
@@ -10,7 +10,6 @@ public class Nine {
         for (int i = 1; i < array.length; i++) {
             array[i] = randNum.nextInt();
         }
-
 
 
         int q;

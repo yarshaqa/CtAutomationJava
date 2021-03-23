@@ -1,4 +1,4 @@
-public class SixC {
+public class SixC2 {
 
     public static void main(String[] args) {
 

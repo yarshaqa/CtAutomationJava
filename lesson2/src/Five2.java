@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class Five {
+public class Five2 {
     public static void main(String[] args) {
 
         int a = 5;
@@ -14,8 +12,5 @@ public class Five {
         }
 
         System.out.println(b);
-
     }
-
-
 }
