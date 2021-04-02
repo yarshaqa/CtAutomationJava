@@ -1,6 +1,6 @@
 package task4;
 
-public class CalculatorCalculate {
+public class MainClass {
     public static void main(String[] args) {
 
 

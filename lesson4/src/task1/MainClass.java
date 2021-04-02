@@ -2,7 +2,7 @@ package task1;
 
 import task1.TaskOneCreateClassHuman;
 
-public class TaskOneDemo {
+public class MainClass {
 
     public static void main(String[] args) {
 

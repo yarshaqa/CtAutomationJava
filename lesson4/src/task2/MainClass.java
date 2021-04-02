@@ -1,6 +1,6 @@
 package task2;
 
-public class TaskTwoBoxer {
+public class MainClass {
 
 
     public static void main(String[] args) {

@@ -26,11 +26,4 @@ public class TaskFiveBunchOfContructors {
         this(value1, value2, value3);
         this.value4 = value4;
     }
-
-
-    public static void main(String[] args) {
-        TaskFiveBunchOfContructors FourValuesConstructor = new TaskFiveBunchOfContructors(5,4,true,"values in this contructor");
-
-        System.out.println(FourValuesConstructor.value2 + " " + FourValuesConstructor.value4);
-    }
 }

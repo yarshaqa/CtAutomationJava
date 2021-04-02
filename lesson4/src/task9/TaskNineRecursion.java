@@ -9,8 +9,4 @@ public class TaskNineRecursion {
             return x * factorial(x - 1);
         }
     }
-
-    public static void main(String[] args) {
-        System.out.println(TaskNineRecursion.factorial(5));
-    }
 }
