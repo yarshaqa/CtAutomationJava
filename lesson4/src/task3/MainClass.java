@@ -4,10 +4,12 @@ public class MainClass {
 
     public static void main(String[] args) {
         TaskThreeWheels wheel = new TaskThreeWheels();
+        TaskThreeEngine engine = new TaskThreeEngine();
+        TaskThreeCar car = new TaskThreeCar(engine);
 
         wheel.printWheelsIsSpinned();  // - USES - A relationships
 
-        TaskThreeCar.engine.engineStarted(true);
+        engine.engineStarted(true);
     }
 
 }

@@ -2,10 +2,12 @@ package task3;
 
 public class TaskThreeCar {
 
-    static TaskThreeEngine engine = new TaskThreeEngine(); // has - A
+    private TaskThreeEngine engine; // has - A
 
     public TaskThreeCar(TaskThreeEngine engine){
+
         this.engine = engine;
+
     }
 
 
