@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6847b16b-3f48-40a6-aecf-771894800a30" name="Default Changelist" comment="lesson4 fixing some notes 2">
-      <change afterPath="$PROJECT_DIR$/lesson5/src/TaskTwoTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/src/task11/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/src/task11/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/src/task2/TaskTwoTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/src/task9/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/src/task9/StaticFields.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson5/src/taskEight/GetterAndSetter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson5/src/taskFive/MainClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson5/src/taskFive/taskFivePrivateAccess.java" afterDir="false" />
@@ -18,9 +22,7 @@
       <change afterPath="$PROJECT_DIR$/lesson5/src/taskThree/classAandB/ClassB.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson5/src/taskThree/classC/ClassC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/task3/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/src/task3/MainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson4/src/task3/TaskThreeCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/src/task3/TaskThreeCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/src/task3/TaskThreeEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/src/task3/TaskThreeEngine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,39 +62,13 @@
       <recent name="C:\Users\yaroslav.shabatura\Downloads\JavaAutomation\lesson5\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainClass (2)">
-    <configuration name="MainClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="taskSix.MainClass" />
-      <module name="lesson5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="taskSix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainClass">
     <configuration name="MainClass (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task3.MainClass" />
       <module name="lesson4" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="task3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainClass (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task5.MainClass" />
-      <module name="lesson4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,20 +89,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainClass (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task9.MainClass" />
+      <module name="lesson5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task4.MainClass" />
-      <module name="lesson4" />
+      <option name="MAIN_CLASS_NAME" value="task11.MainClass" />
+      <module name="lesson5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticFields" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task9.StaticFields" />
+      <module name="lesson5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.MainClass (5)" />
+        <item itemvalue="Application.StaticFields" />
         <item itemvalue="Application.MainClass (2)" />
         <item itemvalue="Application.MainClass (4)" />
-        <item itemvalue="Application.MainClass (3)" />
-        <item itemvalue="Application.MainClass (1)" />
-        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617360895794</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lesson4 fixing some notes 3">
+      <created>1617362137291</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617362137291</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -205,7 +220,8 @@
     <MESSAGE value="lesson4 full ready" />
     <MESSAGE value="lesson4 fixing some notes" />
     <MESSAGE value="lesson4 fixing some notes 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson4 fixing some notes 2" />
+    <MESSAGE value="lesson4 fixing some notes 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson4 fixing some notes 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Project_Structure" timestamp="1617289185009">
@@ -228,54 +244,54 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="516" y="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1617266598792" />
-    <state x="385" y="7" key="CommitChangelistDialog2" timestamp="1617360895092">
+    <state x="385" y="7" key="CommitChangelistDialog2" timestamp="1617362136709">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="385" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1617360895092" />
+    <state x="385" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1617362136709" />
     <state x="445" y="122" key="FileChooserDialogImpl" timestamp="1616526357418">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="445" y="122" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616526357418" />
-    <state width="1478" height="214" key="GridCell.Tab.0.bottom" timestamp="1617362054047">
+    <state width="1478" height="213" key="GridCell.Tab.0.bottom" timestamp="1617373415265">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617362054047" />
-    <state width="1478" height="214" key="GridCell.Tab.0.center" timestamp="1617362054046">
+    <state width="1478" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617373415265" />
+    <state width="1478" height="213" key="GridCell.Tab.0.center" timestamp="1617373415264">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617362054046" />
-    <state width="1478" height="214" key="GridCell.Tab.0.left" timestamp="1617362054046">
+    <state width="1478" height="213" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617373415264" />
+    <state width="1478" height="213" key="GridCell.Tab.0.left" timestamp="1617373415264">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617362054046" />
-    <state width="1478" height="214" key="GridCell.Tab.0.right" timestamp="1617362054046">
+    <state width="1478" height="213" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617373415264" />
+    <state width="1478" height="213" key="GridCell.Tab.0.right" timestamp="1617373415265">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617362054046" />
-    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1617268318210">
+    <state width="1478" height="213" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617373415265" />
+    <state width="1478" height="248" key="GridCell.Tab.1.bottom" timestamp="1617373070575">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617268318210" />
-    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1617268318210">
+    <state width="1478" height="248" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617373070575" />
+    <state width="1478" height="248" key="GridCell.Tab.1.center" timestamp="1617373070574">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1617268318210" />
-    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1617268318210">
+    <state width="1478" height="248" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1617373070574" />
+    <state width="1478" height="248" key="GridCell.Tab.1.left" timestamp="1617373070574">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1617268318210" />
-    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1617268318210">
+    <state width="1478" height="248" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1617373070574" />
+    <state width="1478" height="248" key="GridCell.Tab.1.right" timestamp="1617373070574">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1617268318210" />
+    <state width="1478" height="248" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1617373070574" />
     <state x="492" y="0" key="SettingsEditor" timestamp="1617357820034">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="492" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617357820034" />
-    <state x="368" y="145" key="Vcs.Push.Dialog.v2" timestamp="1617360903777">
+    <state x="368" y="145" key="Vcs.Push.Dialog.v2" timestamp="1617362143566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="368" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1617360903777" />
+    <state x="368" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1617362143566" />
     <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1617288751690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
