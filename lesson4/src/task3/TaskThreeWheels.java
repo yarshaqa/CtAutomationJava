@@ -1,3 +1,5 @@
+package task3;
+
 public class TaskThreeWheels {
 
     public void printWheelsIsSpinned() {

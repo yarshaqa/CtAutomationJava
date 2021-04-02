@@ -1,3 +1,5 @@
+package task9;
+
 public class TaskNineRecursion {
 
     static int factorial(int x) {

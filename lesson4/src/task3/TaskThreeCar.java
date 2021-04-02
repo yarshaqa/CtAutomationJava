@@ -1,3 +1,5 @@
+package task3;
+
 public class TaskThreeCar {
 
     private static TaskThreeEngine engine = new TaskThreeEngine(); // has - A

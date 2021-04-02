@@ -1,3 +1,5 @@
+package task5;
+
 public class TaskFiveBunchOfContructors {
 
     int value1;

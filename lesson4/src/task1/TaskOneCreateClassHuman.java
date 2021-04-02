@@ -1,3 +1,5 @@
+package task1;
+
 public class TaskOneCreateClassHuman {
 
     public double weight;

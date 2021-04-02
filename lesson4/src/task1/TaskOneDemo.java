@@ -1,4 +1,6 @@
-import java.sql.SQLOutput;
+package task1;
+
+import task1.TaskOneCreateClassHuman;
 
 public class TaskOneDemo {
 

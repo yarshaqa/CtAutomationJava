@@ -1,3 +1,5 @@
+package task4;
+
 public class TaskFourStaticCalculator {
 
     double firstValue;

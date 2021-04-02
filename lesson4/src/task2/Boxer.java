@@ -1,3 +1,5 @@
+package task2;
+
 public class  Boxer {
     public int age;
     public int weight;
