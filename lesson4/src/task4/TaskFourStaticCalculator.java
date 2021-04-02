@@ -26,7 +26,7 @@ public class TaskFourStaticCalculator {
             case "/" :
                 System.out.println(secondValue != 0 ? firstValue / secondValue : "Second value should be other than \"0\"");
             default :
-                System.out.println(0);
+                System.out.println("You can calculate only following operation by this calculator : +, -, *, /");
         };
     }
 

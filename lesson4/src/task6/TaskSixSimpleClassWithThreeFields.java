@@ -8,9 +8,9 @@ public class TaskSixSimpleClassWithThreeFields {
 
 
     TaskSixSimpleClassWithThreeFields(int One, double Two, String Three) {
-        fieldOne = One;
-        fieldTwo = Two;
-        fieldThree = Three;
+        this.fieldOne = One;
+        this.fieldTwo = Two;
+        this.fieldThree = Three;
     }
 
 
