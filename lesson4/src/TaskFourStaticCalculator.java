@@ -1,5 +1,5 @@
 public class TaskFourStaticCalculator {
-    
+
     double firstValue;
     double secondValue;
     String operation;
@@ -15,28 +15,17 @@ public class TaskFourStaticCalculator {
     }
 
     public void calculate() {
-        double result;
-
-        if (operation.equals("+")) {
-            result = firstValue + secondValue;
-            System.out.println(result);
-        }
-        if (operation.equals("-")) {
-            result = firstValue - secondValue;
-            System.out.println(result);
-        }
-        if (operation.equals("*")) {
-            result = firstValue * secondValue;
-            System.out.println(result);
-        }
-        if (operation.equals("/")) {
-            if (secondValue != 0) {
-                result = firstValue / secondValue;
-                System.out.println(result);
-            } else System.out.println("Second value should be other than \"0\"");
-        } else {
-            System.out.println("You can use only next type of operations : +, -, *, /");
-        }
+        switch (operation) {
+            case "+" :
+                System.out.println(firstValue + secondValue);
+            case "-" : System.out.println(firstValue - secondValue);
+            case "*" :
+                System.out.println(firstValue * secondValue);
+            case "/" :
+                System.out.println(secondValue != 0 ? firstValue / secondValue : "Second value should be other than \"0\"");
+            default :
+                System.out.println(0);
+        };
     }
 
 }

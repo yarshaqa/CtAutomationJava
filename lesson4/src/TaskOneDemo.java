@@ -5,7 +5,7 @@ public class TaskOneDemo {
     public static void main(String[] args) {
 
 
-        TaskOneCreateClassHuman human = new TaskOneCreateClassHuman();
+        TaskOneCreateClassHuman human = new TaskOneCreateClassHuman(43,23,"Yar", "Sh", 333);
 
         human.weight = 90.50;
         human.age = 27;

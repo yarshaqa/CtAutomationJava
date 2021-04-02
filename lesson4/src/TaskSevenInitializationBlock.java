@@ -4,7 +4,7 @@ public class TaskSevenInitializationBlock{
 
     public static int count = 0;
     private int id;
-    public static int nextId = 1;
+    public static int nextId;
     double fieldFirst;
     String fieldSecond;
     {// this is dynamic initialization block

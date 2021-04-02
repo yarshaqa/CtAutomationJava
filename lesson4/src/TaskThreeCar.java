@@ -1,6 +1,6 @@
 public class TaskThreeCar {
 
-    private static TaskThreeEngine engine; // has - A
+    private static TaskThreeEngine engine = new TaskThreeEngine(); // has - A
 
     public TaskThreeCar(TaskThreeEngine engine){
         this.engine = engine;
@@ -12,7 +12,7 @@ public class TaskThreeCar {
 
         wheel.printWheelsIsSpinned();  // - USES - A relationships
 
-        engine.engineStarted(true);  // тут выдает ошибку, почему немогу понять ???
+        engine.engineStarted(true);
     }
 
 }

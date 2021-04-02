@@ -11,8 +11,8 @@ public class  Boxer {
 
     public boolean fight(Boxer anotherBoxer) {
         // write your code here
-        if (age - anotherBoxer.age <=15) {
-            if (strength > anotherBoxer.strength & weight - anotherBoxer.weight >5) {
+        if (this.age - anotherBoxer.age <=15) {
+            if (this.strength > anotherBoxer.strength & this.weight - anotherBoxer.weight >5) {
                 return true;
             }
         }
