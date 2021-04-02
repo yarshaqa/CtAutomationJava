@@ -1,4 +1,4 @@
-package taskSix;
+package task6;
 
 class taskSixPrivateConstructor {
 

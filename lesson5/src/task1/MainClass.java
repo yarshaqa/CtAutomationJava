@@ -1,11 +1,11 @@
-package taskOne;
+package task1;
 
-import taskOne.taskOne1.TaskOneSameNameLesson5;
+import task1.taskOne1.TaskOneSameNameLesson5;
 
 
 public class MainClass {
 
-    static taskOne.taskOne2.TaskOneSameNameLesson5 One = new taskOne.taskOne2.TaskOneSameNameLesson5(3,4,"success");
+    static task1.taskOne2.TaskOneSameNameLesson5 One = new task1.taskOne2.TaskOneSameNameLesson5(3,4,"success");
 
 
     static TaskOneSameNameLesson5 Second = new TaskOneSameNameLesson5(54, 54, 54);

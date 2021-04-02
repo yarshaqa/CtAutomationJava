@@ -1,4 +1,4 @@
-package taskOne.taskOne2;
+package task1.taskOne2;
 
 public class TaskOneSameNameLesson5 {
 

@@ -1,4 +1,4 @@
-package taskFour.classAandB;
+package task4.classAandB;
 
 public class ClassA {
 

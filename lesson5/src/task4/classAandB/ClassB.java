@@ -1,6 +1,4 @@
-package taskFour.classAandB;
-
-import taskFour.classAandB.ClassA;
+package task4.classAandB;
 
 public class ClassB {
 

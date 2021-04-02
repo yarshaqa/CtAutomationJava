@@ -1,4 +1,4 @@
-package taskFive;
+package task5;
 
 public class MainClass {
 

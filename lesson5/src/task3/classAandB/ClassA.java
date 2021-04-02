@@ -1,4 +1,4 @@
-package taskThree.classAandB;
+package task3.classAandB;
 
 class ClassA {
     int packagePrivate;

@@ -1,4 +1,4 @@
-package taskEight;
+package task8;
 
 public class GetterAndSetter {
 

@@ -1,6 +1,6 @@
-package taskSix;
+package task6;
 
-import static taskSix.taskSixPrivateConstructor.methodCreatePrivateConstructor;
+import static task6.taskSixPrivateConstructor.methodCreatePrivateConstructor;
 
 public class MainClass {
 
